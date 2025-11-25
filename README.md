@@ -5,6 +5,8 @@ Alexandre Aguilar Pistolato Lopes
 
 Christopher Alencar Pereira Cordeiro 
 
+Pedro Almeida de Brito Martins 
+
 Jogo da Velha com LEDs e Arduino
 
 Resumo
