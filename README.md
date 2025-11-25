@@ -1,6 +1,8 @@
 # README
 Leonardo Henrique Faria Dias
 
+Alexandre Aguilar Pistolato Lopes
+
 Nome do Projeto
 Jogo da Velha com LEDs e Arduino
 
