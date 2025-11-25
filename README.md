@@ -3,7 +3,8 @@ Leonardo Henrique Faria Dias
 
 Alexandre Aguilar Pistolato Lopes
 
-Nome do Projeto
+Christopher Alencar Pereira Cordeiro 
+
 Jogo da Velha com LEDs e Arduino
 
 Resumo
