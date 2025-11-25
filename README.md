@@ -26,3 +26,5 @@ Botões para selecionar cada casa do tabuleiro
 Jumpers para realizar as conexões
 Arduino IDE para programação em C++
 Tinkercad para testes e simulação do circuito (opcional)
+
+https://www.tinkercad.com/things/2MBC9Amj7kl-jogo-da-velha/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fcircuits
